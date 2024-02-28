@@ -1,7 +1,5 @@
 <?php
 
-namespace RefactoringGuru\Facade\RealWorld;
-
 /**
  * The Facade provides a single method for downloading videos from YouTube. This
  * method hides all the complexity of the PHP network layer, YouTube API and the

@@ -1,7 +1,5 @@
 <?php
 
-namespace RefactoringGuru\Singleton\RealWorld;
-
 /**
  * If you need to support several types of Singletons in your app, you can
  * define the basic features of the Singleton in a base class, while moving the

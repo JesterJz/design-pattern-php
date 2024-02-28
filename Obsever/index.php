@@ -1,7 +1,5 @@
 <?php
 
-namespace RefactoringGuru\Observer\RealWorld;
-
 /**
  * The UserRepository represents a Subject. Various objects are interested in
  * tracking its internal state, whether it's adding a new user or removing one.
